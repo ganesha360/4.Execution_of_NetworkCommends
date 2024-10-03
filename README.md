@@ -1,6 +1,8 @@
 # 4.Execution_of_NetworkCommands
-## AIM :Use of Network commands in Real Time environment
-## Software : Command promt and Pycharm.
+## NAME: GANESH R
+## REG NO: 212222240029
+## AIM: Use of Network commands in Real Time environment
+## Software: Command promt and Pycharm.
 
 ## Algorithms :
 
